@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android_wrok\\ImageBrowser\\photoview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\android_wrok\\ImageBrowser\\photoview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\android_wrok\\MNImageBrowser\\photoview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\android_wrok\\MNImageBrowser\\photoview\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]
