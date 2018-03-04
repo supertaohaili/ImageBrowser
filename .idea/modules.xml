@@ -8,7 +8,6 @@
       <module fileurl="file://E:\android_wrok\MNImageBrowser\app\app.iml" filepath="E:\android_wrok\MNImageBrowser\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagebrowser/imagebrowser.iml" filepath="$PROJECT_DIR$/imagebrowser/imagebrowser.iml" />
       <module fileurl="file://E:\android_wrok\MNImageBrowser\imagebrowserlibrary\imagebrowserlibrary.iml" filepath="E:\android_wrok\MNImageBrowser\imagebrowserlibrary\imagebrowserlibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />
     </modules>
   </component>
 </project>
